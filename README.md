@@ -166,6 +166,9 @@ Here are the list of config value you can pass in while you initilize your 360 s
   <tr>
     <td>zeroBased</td><td>false</td><td>Boolean</td><td>Zero based for image filenames starting at 0</td>
   </tr>
+  <tr>
+    <td>imgArray</td><td>null</td><td>Array</td><td>Use set of images in array to load images</td>
+  </tr>
 </table>
 
 Demo
